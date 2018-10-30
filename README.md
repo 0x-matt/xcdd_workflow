@@ -1,5 +1,5 @@
 # xcdd_workflow
-a simple xcdd workflow for Alfred2
+A simple xcdd workflow for Alfred2
 
 ## Download
 
